@@ -1,4 +1,4 @@
-# Logo Assets
+# Minicons
 
 This repository contains SVG logos enhanced by me, intended for use in my READMEs. Currently, it includes six style types: "no coloured", "plain", "light", "gray", "light gradient," and "dark gradient."
 
