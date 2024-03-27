@@ -1,10 +1,12 @@
 # Minicons
 
-This repository contains SVG logos enhanced by me, intended for use in READMEs. Currently, it includes six style types: "plain", "light-bg", "dark-bg", "gradient," "light-gray" and "dark-gray".
+Welcome to Minicons! This repository is dedicated to providing a collection of SVG logos curated and enhanced for various uses, particularly for integration into READMEs. Currently, the repository includes logos in six different style types: "plain," "light-bg," "dark-bg," "gradient," "light-gray," and "dark-gray."
 
 ![Screenshot](logos.png)
 
-## Logos in Progress
+## Logos Status
+
+Here's a rundown of the logos available and their completion status:
 
 | Logos         | Completed | Version |
 |---------------|-----------|---------|
@@ -34,3 +36,5 @@ This repository contains SVG logos enhanced by me, intended for use in READMEs. 
 | Swift         | ✅        |         |
 | Vue           | ✅        |         |
 | Windows       |           |         |
+
+Stay tuned for more updates and additions as we continue to expand our collection of Minicons.
