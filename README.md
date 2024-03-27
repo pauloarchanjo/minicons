@@ -6,35 +6,35 @@ Welcome to Minicons! This repository is dedicated to providing a collection of S
 
 ## Logos Status
 
-Here's a rundown of the logos available and their completion status:
+Here's a rundown of the newest logos and their completion status:
 
 | Logos         | Completed | Version |
 |---------------|-----------|---------|
 | After Effects |           |         |
-| Angular       | ✅        |         |
+| Angular       | ✅        | v1.0    |
 | Apple         |           |         |
-| Assembly      | ✅        |         |
-| C             | ✅        |         |
-| Dart          | ✅        |         |
+| Assembly      | ✅        | v1.0    |
+| C             | ✅        | v1.0    |
+| Dart          | ✅        | v1.0    |
 | Docker        |           |         |
-| Flutter       | ✅        |         |
-| Go            | ✅        |         |
-| Java          | ✅        |         |
-| Kotlin        | ✅        |         |
+| Flutter       | ✅        | v1.0    |
+| Go            | ✅        | v1.0    |
+| Java          | ✅        | v1.0    |
+| Kotlin        | ✅        | v1.0    |
 | Linux         |           |         |
-| Lua           | ✅        |         |
-| Next          | ✅        |         |
-| Nest          | ✅        |         |
-| PHP           | ✅        |         |
+| Lua           | ✅        | v1.0    |
+| Next          | ✅        | v1.0    |
+| Nest          | ✅        | v1.0    |
+| PHP           | ✅        | v1.0    |
 | Premiere      |           |         |
-| React         | ✅        |         |
-| Ruby          | ✅        |         |
-| Rust          | ✅        |         |
-| Scala         | ✅        |         |
-| Spring Boot   | ✅        |         |
-| SQL           | ✅        |         |
-| Swift         | ✅        |         |
-| Vue           | ✅        |         |
+| React         | ✅        | v1.0    |
+| Ruby          | ✅        | v1.0    |
+| Rust          | ✅        | v1.0    |
+| Scala         | ✅        | v1.0    |
+| Spring Boot   | ✅        | v1.0    |
+| SQL           | ✅        | v1.0    |
+| Swift         | ✅        | v1.0    |
+| Vue           | ✅        | v1.0    |
 | Windows       |           |         |
 
 Stay tuned for more updates and additions as we continue to expand our collection of Minicons.
