@@ -1,3 +1,3 @@
 #### Copyright © 2024 / [Paulo Archanjo](https://github.com/pauloarchanjo)
 
-A permissão é concedida gratuitamente a qualquer pessoa que obtenha uma cópia destes ícones para utilizá-los em seus projetos pessoais. No entanto, não é permitida a modificação dos mesmos.
+Permission is granted free of charge to anyone who obtains a copy of these icons to use them in their personal projects. However, modification of them is not permitted.
