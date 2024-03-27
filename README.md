@@ -30,9 +30,6 @@ Here's a rundown of the newest logos and their completion status:
 | React         | ✅        | v1.0    |
 | Ruby          | ✅        | v1.0    |
 | Rust          | ✅        | v1.0    |
-| Scala         | ✅        | v1.0    |
-| Spring Boot   | ✅        | v1.0    |
-| SQL           | ✅        | v1.0    |
 | Swift         | ✅        | v1.0    |
 | Vue           | ✅        | v1.0    |
 | Windows       |           |         |
