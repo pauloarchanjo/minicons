@@ -63,6 +63,7 @@ Claro! Vou reorganizar os itens em ordem alfabética na coluna "Logos":
 | Powershell          |           |         |
 | Premiere            | ✅        |         |
 | Prisma              |           |         |
+| Pyscript            |           |         |
 | Pytorch             |           |         |
 | R                   |           |         |
 | Raspberry Pi        |           |         |
@@ -75,6 +76,7 @@ Claro! Vou reorganizar os itens em ordem alfabética na coluna "Logos":
 | Sass                |           |         |
 | Socket.io           |           |         |
 | Spring Boot         |           |         |
+| Sqlite              |           |         |
 | Swift               | ✅        | v1.0    |
 | Tailwind            |           |         |
 | TensorFlow          |           |         |
@@ -87,6 +89,9 @@ Claro! Vou reorganizar os itens em ordem alfabética na coluna "Logos":
 | Vue                 | ✅        | v1.0    |
 | Windows             | ✅        |         |
 | XD                  |           |         |
+| XML                 |           |         |
 | Yarn                |           |         |
+| Selenium            |           |         |
+| Bun                 |           |         |
 
 Stay tuned for more updates and additions as we continue to expand our collection of Minicons.
