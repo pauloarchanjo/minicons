@@ -10,8 +10,6 @@ Welcome to Minicons! This repository is dedicated to providing a collection of S
 
 Here's a rundown of the newest logos and their completion status:
 
-Claro! Vou reorganizar os itens em ordem alfabética na coluna "Logos":
-
 
 | Logos               | Completed | Version |
 |---------------------|-----------|---------|
