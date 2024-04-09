@@ -1,6 +1,5 @@
-![Screenshot](banner.png)
-
 # Minicons
+![Screenshot](banner.png)
 
 Welcome to Minicons! This repository is dedicated to providing a collection of SVG logos curated and enhanced for various uses, particularly for integration in personal projects. Currently, the repository includes logos in six different style types: "plain," "light-bg," "dark-bg," "gradient," "light-gray," and "dark-gray."
 
@@ -15,8 +14,14 @@ To use logos from this repository, you have these options:
 
 2. **Download**: Another way to use the logo is to download it directly from the repository. To do this, click "Download raw file". This will download the .svg file to your computer, where you can use it as needed.
 
-A big advantage of "Minicons" is using logos in .svg format. Because they are vector, it means they can be resized without loss of quality. Unlike raster images (such as .jpg or .png), .svg files maintain sharpness and visual definition regardless of the size at which they are displayed.
+## Features
 
-##
+- **Extensive Collection**: Browse through thousands of icons, neatly categorized and available in various styles.
+- **Free to Use**: All icons in this repository are completely free for both personal and commercial use.
+- **Scalable Vector Graphics (SVG)**: All icons are provided in SVG format, allowing for easy scaling and customization while maintaining crispness and clarity.
+- **High Quality**: Each icon is meticulously crafted, offering excellent visual clarity and detail.
 
-Stay tuned for more updates and additions as we continue to expand our collection of Minicons.
+## Feedback and Support
+If you have any questions, suggestions, or need support, please don't hesitate to open an issue in this repository.
+
+Stay tuned for more updates and additions as we continue to expand our collection of Minicons!
