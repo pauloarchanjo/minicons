@@ -1,29 +1,94 @@
 # Minicons
-![Screenshot](banner.png)
 
-Welcome to Minicons! This repository is dedicated to providing a collection of SVG logos curated and enhanced for various uses, particularly for integration in personal projects. Currently, the repository includes logos in six different style types: **plain**, **light-bg**, **dark-bg**, **gradient**, **light-gray**, and **dark-gray**.
+![Minicons Banner](banner.png)
 
-Take an overview of how our icons are styled below:
+**Minicons** is a curated collection of SVG icons and logos designed for use in websites, applications, portfolios, documentation, and other digital projects.
 
-![Screenshot](logos.png)
+The project focuses on software, platforms, programming languages, frameworks, libraries, and other technologies, bringing their recognizable visual identities into a consistent and standardized icon system.
 
+Each icon is carefully prepared to remain clean, scalable, and visually coherent across the collection.
+
+## Preview
+
+![Minicons Preview](logos.png)
+
+## Styles
+
+Minicons currently provides six visual variations:
+
+- **Plain** — original or primary visual style.
+- **Light Background** — optimized for light surfaces.
+- **Dark Background** — optimized for dark surfaces.
+- **Gradient** — gradient-based variation.
+- **Light Gray** — monochromatic light-gray variation.
+- **Dark Gray** — monochromatic dark-gray variation.
+
+The repository is organized using the following directories:
+
+```text
+minicons/
+├── plain/
+├── light-background/
+├── dark-background/
+├── gradient/
+├── light-gray/
+└── dark-gray/
+```
 
 ## How to use
 
-To use logos from this repository, you have these options:
+Choose the style you want, open the corresponding directory, and select the SVG file you need.
 
-1. **Copy the URL**: Each logo has a unique URL. You can copy the URL of the image to use it. This is useful if you want to reference or embed the logo on a website or document. The URL will remain stable and linked to the logo in the repository.
+### Use the raw SVG URL
 
-2. **Download**: Another way to use the logo is to download it directly from the repository. To do this, click "Download raw file". This will download the .svg file to your computer, where you can use it as needed.
+Each SVG can be referenced through its raw GitHub URL and embedded directly in websites, documentation, or other supported environments.
+
+```html
+<img
+  src="https://raw.githubusercontent.com/pauloarchanjo/minicons/main/plain/example.svg"
+  alt="Example"
+  width="40"
+/>
+```
+
+Raw URLs remain valid as long as the file path and branch are not changed.
+
+### Download the SVG
+
+You can also download any icon directly from GitHub:
+
+1. Open the desired SVG file.
+2. Click **Download raw file**.
+3. Save the SVG and use it in your project according to the repository license.
 
 ## Features
 
-- **Extensive Collection**: Browse through thousands of icons, neatly categorized and available in various styles.
-- **Free to Use**: All icons in this repository are completely free for both personal and commercial use.
-- **Scalable Vector Graphics (SVG)**: All icons are provided in SVG format, allowing for easy scaling and customization while maintaining crispness and clarity.
-- **High Quality**: Each icon is meticulously crafted, offering excellent visual clarity and detail.
+- **Consistent visual identity** — icons follow the same design system across the collection.
+- **Multiple styles** — six variants designed for different interfaces and backgrounds.
+- **SVG format** — scalable vector assets that remain sharp at any resolution.
+- **Technology-focused collection** — software, platforms, languages, frameworks, libraries, and related tools.
+- **Curated assets** — each icon is prepared and reviewed individually rather than automatically generated.
 
-## Feedback and Support
-If you have any questions, suggestions, or need support, please don't hesitate to open an issue in this repository.
+## License
 
-Stay tuned for more updates and additions as we continue to expand our collection of Minicons!
+Minicons assets are available for use in **personal projects** under the terms described in [license.md](license.md).
+
+The current license does **not permit modification** of the distributed icons.
+
+Please review the license before using the assets in your project.
+
+## Trademark notice
+
+Product names, logos, brands, and trademarks represented in this repository belong to their respective owners.
+
+Minicons is an independent project and is not affiliated with, sponsored by, or endorsed by the companies or organizations represented by these icons.
+
+The designs in this repository are intended to provide a consistent visual representation of technologies while respecting the identity of their respective brands.
+
+## Feedback and support
+
+Suggestions, corrections, requests, and feedback are welcome.
+
+If you find an issue with an icon or would like to suggest a technology for the collection, feel free to [open an issue](https://github.com/pauloarchanjo/minicons/issues).
+
+Minicons is an ongoing project, and the collection will continue to evolve with new icons, improvements, and visual refinements.
